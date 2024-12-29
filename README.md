@@ -85,7 +85,7 @@ By leveraging historical data, users can:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-repo-name/vietnam-aviation-analytics.git](https://github.com/tranphan2910/DSDV-VietnamAviationAnalytics-Web.git)
+   git clone https://github.com/tranphan2910/DSDV-VietnamAviationAnalytics-Web.git
    ```
 2. Navigate to the project directory:
    ```bash
