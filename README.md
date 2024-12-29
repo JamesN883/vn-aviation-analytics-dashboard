@@ -1,14 +1,11 @@
 # Vietnam Aviation Analytics
 
 ## Introduction
-The **Vietnam Aviation Analytics** dashboard, powered by AEVION, is an interactive and user-friendly platform for analyzing key aviation metrics such as flight volumes, passenger trends, pricing patterns, and route coverage. This tool enables users to explore aviation data through intuitive navigation and insightful visualizations, tailored to their specific needs.
+The AEVION provides an interactive and user-friendly platform for analyzing key aviation metrics such as flight volumes, passenger trends, pricing patterns, and route coverage. By incorporating intuitive navigation and insightful visualizations, the application enables users to explore aviation data and gain actionable insights tailored to their needs. Users can filter data by airline, departure and arrival locations, and specific dates, allowing for personalized and detailed exploration of historical trends or future predictions. 
 
-The dashboard offers:
-- **Customizable Filters**: Filter data by airline, departure and arrival locations, and specific dates.
-- **Visualizations**: Bar charts, heatmaps, scatter plots, and geographic maps for enhanced data exploration.
-- **Key Metrics**: Summary of total travelers and flights for a high-level overview.
+The dashboard features various visualization tools, including a bar chart comparing total flights by airline, a heatmap showcasing flight density by hour, a geographic map of passenger routes and flight coverage, and a scatter plot analyzing daily pricing trends. These visualizations are further complemented by summary metrics like total travelers and flights, offering a high-level overview of industry activity. 
 
-Whether you are a traveler planning your trip, an airline optimizing operations, or a policymaker shaping strategies, this dashboard serves as a versatile and valuable tool.
+The layout is designed with ease of use in mind, featuring a left navigation bar for quick access to sections. The application is highly versatile, serving customers planning their trips, airlines optimizing operations, and policymakers shaping strategies. 
 
 ---
 
@@ -77,6 +74,7 @@ By leveraging historical data, users can:
 - Optimize travel schedules and budgets.
 
 ---
+![image](https://github.com/user-attachments/assets/c08e6766-7ecb-4a88-a9be-780ca792a03a)
 
 ## Installation and Setup
 ### Prerequisites
