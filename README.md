@@ -73,7 +73,7 @@ By leveraging historical data, users can:
 - Forecast demand and trends.
 - Optimize travel schedules and budgets.
 
-![image](https://github.com/user-attachments/assets/c08e6766-7ecb-4a88-a9be-780ca792a03a)
+![image](https://github.com/user-attachments/assets/64b3e99f-ccd3-46de-bb4d-f5736ffbd2ab)
 
 ---
 
