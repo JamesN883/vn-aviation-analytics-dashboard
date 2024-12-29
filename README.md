@@ -99,6 +99,6 @@ By leveraging historical data, users can:
    ```bash
    npm run dev
    ```
-5. Access the dashboard at ` http://localhost:5173`.
+5. Access the dashboard at ` http://localhost:5173`
 
 ---
