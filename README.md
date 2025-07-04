@@ -11,7 +11,7 @@ An interactive dashboard to explore flight trends, pricing patterns, and route c
 5. [Dashboard Workflow](#dashboard-workflow)
 6. [Installation and Setup](#installation-and-setup)
 
-## 🚀 Introduction <a name="introduction"></a>
+## 📖 Introduction <a name="introduction"></a>
 
 **Aevion** provides an interactive platform to analyze Vietnam’s aviation trends.  
 Users can filter and visualize data across:
