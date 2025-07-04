@@ -36,24 +36,24 @@ Visualizations include:
 
 ## ✅ Features <a name="features"></a>
 
-### 📌 Visualization Tools
+### Visualization Tools
 - **Bar Chart** – Flight volume by airline  
 - **Heatmap** – Hourly flight density  
 - **Scatter Plot** – Ticket price trends  
 - **Geo Map** – Route and passenger flows  
 
-### 🧰 Filters & Metrics
+### Filters & Metrics
 - Filter by **airline**, **location**, or **date**
 - Summary metrics: total flights, total passengers
 
 ## 🛠️ Tools and Technologies <a name="tools-and-technologies"></a>
 
-### 🧪 Development
+### Development
 - React, TypeScript, Vite
 - D3.js for dynamic charts
 - HTML & CSS
 
-### 📊 Data Processing
+### Data Processing
 - Python (Colab)
 - Tableau (UI prototyping)
 
