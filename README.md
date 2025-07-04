@@ -1,83 +1,88 @@
-# Vietnam Aviation Analytics
+# Vietnam Aviation Analytics Dashboard
 
-## Introduction
-The AEVION provides an interactive and user-friendly platform for analyzing key aviation metrics such as flight volumes, passenger trends, pricing patterns, and route coverage. By incorporating intuitive navigation and insightful visualizations, the application enables users to explore aviation data and gain actionable insights tailored to their needs. Users can filter data by airline, departure and arrival locations, and specific dates, allowing for personalized and detailed exploration of historical trends or future predictions. 
+An interactive dashboard to explore flight trends, pricing patterns, and route coverage in Vietnam’s aviation sector.
 
-The dashboard features various visualization tools, including a bar chart comparing total flights by airline, a heatmap showcasing flight density by hour, a geographic map of passenger routes and flight coverage, and a scatter plot analyzing daily pricing trends. These visualizations are further complemented by summary metrics like total travelers and flights, offering a high-level overview of industry activity. 
+## 📑 Table of Contents
 
-The layout is designed with ease of use in mind, featuring a left navigation bar for quick access to sections. The application is highly versatile, serving customers planning their trips, airlines optimizing operations, and policymakers shaping strategies. 
+1. [Introduction](#introduction)
+2. [Objective](#objective)
+3. [Features](#features)
+4. [Tools and Technologies](#tools-and-technologies)
+5. [Dashboard Workflow](#dashboard-workflow)
+6. [Installation and Setup](#installation-and-setup)
 
----
+## 🚀 Introduction <a name="introduction"></a>
 
-## Goals
-The core objective of the Vietnam Aviation Analytics dashboard is to:
+**Aevion** provides an interactive platform to analyze Vietnam’s aviation trends.  
+Users can filter and visualize data across:
 
-1. **Provide Comprehensive Insights**: Offer detailed data on ticket prices, flight schedules, route coverage, and peak travel hours.
-2. **Empower Users**: Allow customers to compare travel options, optimize schedules, and manage their budgets efficiently.
-3. **Enhance Decision-Making**: Enable strategic planning by analyzing historical data and forecasting future trends.
-4. **Improve User Experience**: Seamlessly integrate interactive visualizations with an intuitive interface.
+- 📍 Airlines
+- 📍 Airports (departure/arrival)
+- 📍 Specific time ranges
 
----
+Visualizations include:
 
-## Features
-### Visualization Tools
-- **Bar Chart**: Compare total flights by airline.
-- **Heatmap**: Showcase flight density by hour and airline.
-- **Scatter Plot**: Analyze daily ticket pricing trends.
-- **Geographic Map**: Visualize passenger routes and flight coverage.
+- 📊 Flight volume by airline (bar chart)
+- 🔥 Density of flights by hour (heatmap)
+- 🌍 Flight route coverage (geo-map)
+- 💸 Ticket pricing trends (scatter plot)
 
-### Filters and Metrics
-- **Filters**: Customize data by airline, departure/arrival locations, and specific dates.
-- **Metrics**: Display total travelers and flights for quick insights.
+## 📌 Objective <a name="objective"></a>
 
-### Benefits
-- **Trip Optimization**: Identify peak travel hours and avoid congestion.
-- **Cost Savings**: Track ticket price trends to make informed purchases.
-- **Strategic Planning**: Leverage historical data to forecast and plan effectively.
+- Provide comprehensive insights into flight schedules, pricing, and routes
+- Empower users to optimize travel and budget decisions
+- Enhance data-driven planning for stakeholders
+- Deliver a smooth and intuitive visualization experience
 
----
+## ✅ Features <a name="features"></a>
 
-## Techniques and Tools Used
-### Development Environment
-- **IDE for Web Development**: Visual Studio Code with HTML, CSS, D3.js, React, TypeScript, and Vite.
+### 📌 Visualization Tools
+- **Bar Chart** – Flight volume by airline  
+- **Heatmap** – Hourly flight density  
+- **Scatter Plot** – Ticket price trends  
+- **Geo Map** – Route and passenger flows  
 
-### Data and Visualization
-- **UI Drafting**: Tableau and Python.
-- **Data Cleaning**: Python Jupyter Notebook via Google Colab.
+### 🧰 Filters & Metrics
+- Filter by **airline**, **location**, or **date**
+- Summary metrics: total flights, total passengers
 
-### Code Management
-- **Version Control**: GitHub Desktop for code management and collaboration.
+## 🛠️ Tools and Technologies <a name="tools-and-technologies"></a>
 
----
+### 🧪 Development
+- React, TypeScript, Vite
+- D3.js for dynamic charts
+- HTML & CSS
 
-## Dashboard Journey
+### 📊 Data Processing
+- Python (Colab)
+- Tableau (UI prototyping)
+
+### 🔧 Project Management
+- GitHub Desktop (version control)
+
+## 📊 Dashboard Workflow <a name="dashboard-workflow"></a>
+
 ### Step 1: Overview and Navigation
-The dashboard provides an intuitive interface with:
-- A **left navigation bar** for easy access.
-- An **interactive layout** for exploring key aviation metrics.
+- Navigate via a left-hand sidebar
+- Explore aviation metrics through an interactive, responsive layout
 
 ### Step 2: Data Filtering
-Users can filter data by:
-- **Airline**: Select specific carriers for comparison.
-- **Departure/Arrival Locations**: Focus on specific routes.
-- **Date**: Analyze historical trends or forecast future patterns.
+- Customize views by selecting airline, departure/arrival locations, and date ranges
+- Instantly update visualizations to reflect your selections
 
-### Step 3: Insights and Decision-Making
-The visualizations allow users to:
-- Compare flight volumes by airline.
-- Analyze pricing patterns over time.
-- Identify peak travel hours and route density.
+### Step 3: Insight Extraction
+- Compare flight volumes across airlines
+- Track ticket price trends over time
+- Identify peak hours and high-density routes
 
 ### Step 4: Strategic Planning
-By leveraging historical data, users can:
-- Forecast demand and trends.
-- Optimize travel schedules and budgets.
+- Leverage historical trends to forecast demand
+- Optimize travel plans and operations with data-driven insights
 
 ![image](https://github.com/user-attachments/assets/64b3e99f-ccd3-46de-bb4d-f5736ffbd2ab)
 
----
+## 🚀 Installation and Setup <a name="installation-and-setup"></a>
 
-## Installation and Setup
 ### Prerequisites
 1. **Node.js**: Ensure Node.js is installed for package management.
 2. **Git**: Install Git for version control.
@@ -99,4 +104,4 @@ By leveraging historical data, users can:
    ```bash
    npm run dev
    ```
-
+5. Open your browser and navigate to `http://localhost:5173/`
