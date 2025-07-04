@@ -2,7 +2,7 @@
 
 An interactive dashboard to explore flight trends, pricing patterns, and route coverage in Vietnam’s aviation sector.
 
-## 📑 Table of Contents
+## 📚 Table of Contents
 
 1. [Introduction](#introduction)
 2. [Objective](#objective)
